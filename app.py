@@ -16,6 +16,7 @@ MENU_TEA = {
     "Trà Sữa Truyền Thống": 30000,
     "Trà Sữa Trân Châu Đường Đen": 35000,
     "Trà Sữa Thái Xanh": 32000,
+    "Trà Sữa Không Bỏ Sữa":20000,
     "Hồng Trà Sữa":27000,
     "Trà Sữa Ô Long": 35000,
     "Trà Sữa Matcha": 38000,
